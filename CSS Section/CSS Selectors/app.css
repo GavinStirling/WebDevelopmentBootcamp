@@ -1,0 +1,75 @@
+/* *{
+    background-color: cyan;
+} */
+
+body{
+    background-color: whitesmoke;
+}
+
+button{
+    font-size: 30px;
+    background-color: cyan;
+}
+
+h2, h2{
+    color: darkblue;
+}
+
+#signup {
+    background-color: darkcyan;
+    color: wheat;
+}
+
+span{
+    color: aqua;
+}
+
+.tag{
+    background-color: red;
+    color: lightblue;
+    font-size: 16px;
+}
+
+.post a {
+    color:aqua;
+}
+
+footer a {
+    color: red;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2 + button {
+    font-size: 20px;
+    background-color: magenta;
+}
+
+footer > a {
+    color: lightgreen
+}
+
+input[type = "password"] {
+    color: blueviolet;
+}
+
+.post button:hover{
+    background-color: red;
+    color: white;
+}
+
+button:active {
+    background-color: black;
+}
+
+.post:nth-of-type(2n) {
+    background-color: darkolivegreen;
+}
+
+h2::first-letter {
+    font-size: 50px;
+}
