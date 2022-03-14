@@ -1,0 +1,48 @@
+#ems section {
+    background-color: burlywood;
+    width: 400px;
+    height: 800px;
+}
+
+#ems div {
+    width: 50%;
+    height: 50%;
+    background-color: black;
+}
+
+#ems h1 {
+    font-size: 100px;
+    line-height: 50%;
+    border: 1px solid black;
+}
+
+#ems h2 {
+    font-size: 4em;
+    margin-left: 0.5em;
+}
+
+#ems article {
+    font-size: 20px;
+}
+
+#ems p {
+    font-size: 0.5em;
+}
+
+#ems button {
+    font-size: 1em;
+    padding: 0 1em;
+    border-radius: 0.5em;
+}
+
+#ems ul {
+    font-size: 1em;
+}
+
+#rems h2 {
+    font-size: 3rem;
+}
+
+#rems h3 {
+    font-size: 2rem;
+}
